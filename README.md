@@ -4,6 +4,9 @@
 Languages:
 Python🐍 , Swift🐦 , Rust🦀
 
+Services:
+AWS☁️ , Firebase🔥
+
 Key Projects:
 1. Party Favor (Event Management Software as a Service) iOS
 2. TikTok Sentiment Analysis Bot
