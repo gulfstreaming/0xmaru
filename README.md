@@ -1,8 +1,10 @@
 - 😎 Hi, I’m @0xmaru
-- 👀 I’m currently learning React.JS⚛️ & Django🤠
 
 Languages:
 Python🐍 , Swift🐦 , Rust🦀
+
+Frameworks:
+React.JS⚛️ & Flask⚗️
 
 Services:
 AWS☁️ , Firebase🔥
